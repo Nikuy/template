@@ -13,4 +13,4 @@ function changeColor() {
 	}
 }
 
-setInteval(changeColor, 20);
+setInterval(changeColor, 20);
